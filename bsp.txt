@@ -2,3 +2,4 @@ Hier ist der erste Text mit Ergänzung
 Main wurde weiter bearbeitet
 main
 Bearbeitet in GitHub
+Änderung nach Push psb.txt auf GitHub
